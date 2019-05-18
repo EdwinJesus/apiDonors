@@ -1,2 +1,2 @@
 # apiDonors
-Test Api donorschoose.org
+ A example Api donorschoose.org using java.
